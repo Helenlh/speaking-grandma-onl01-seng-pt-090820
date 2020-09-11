@@ -60,9 +60,9 @@ def speak_to_grandma(spoken)
     elsif spoken == "Hi!"
       return "HUH, SPEAK UP, SONNY!"
     elsif spoken == "WHAT DID YOU EAT TODAY?"
-      return "NO NOT SINCE 1938!"
+      return "NO, NOT SINCE 1938!"
     else 
-      return "NO NOT SINCE 1938!"
+      return "NO, NOT SINCE 1938!"
     end 
 end 
 
