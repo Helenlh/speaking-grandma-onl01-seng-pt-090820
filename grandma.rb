@@ -58,7 +58,7 @@ def speak_to_grandma(spoken)
     elsif spoken == "I LOVE YOU GRANDMA!"
       return "I LOVE YOU TOO PUMPKIN!"
     elsif spoken == "Hi!"
-      return "HUH, SPEAK UP SONNY!"
+      return "HUH, SPEAK UP, SONNY!"
     elsif spoken == "WHAT DID YOU EAT TODAY?"
       return "NO NOT SINCE 1938!"
     else 
